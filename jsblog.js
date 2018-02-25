@@ -1,4 +1,4 @@
-alert(getTitle);
+alert(getTitle+"sapat");
 		var $ = jQuery;
 		
 
