@@ -1,1 +1,1 @@
-alert('fff');
+alert(getTitle);
